@@ -1,0 +1,129 @@
+html {
+    font-family: sans-serif;
+  }
+
+
+  header {
+
+    height: 100px;
+  }
+
+  h1 {
+    text-align: center;
+    color: white;
+    line-height: 100px;
+    margin: 0;
+  }
+
+  article {
+    padding: 10px;
+    margin: 10px;
+  }
+.png1 {
+    width: 1000px 1000px;
+    margin-left: 70%;
+}
+.sborka {
+    margin-left: 23%;
+}
+.igra {
+    margin-left: 35%;
+    height: 700px;
+    width: 700px;
+}
+.karta {
+    margin-left: 15%;
+    height: 800px;
+}
+.histori {
+    margin-left: 25%;
+}
+.voin {
+    margin-left: 15%;
+}
+.AT {
+    margin-left: 17%;
+}
+.RUS {
+    margin-left: 30%;
+    height: 800px;
+}
+.film {
+    margin-left: 23%;
+    width: 1000px;
+}
+.server {
+    margin-left: 15%;
+}
+.obr {
+    margin-left: 30%;
+}
+.wiki {
+    margin-left: 30%;
+}
+.znav {
+    margin-left: 32%;
+}
+.infa {
+    margin-left: 30%;
+}
+body {
+    background-color:grey ;
+    color:white ;
+		background: #000 url(ii.png); /* Фоновый цвет и фоновый рисунок*/
+		color: #fff; /*Цвет текста на странице*/
+		background-attachment: fixed; /* Фон страницы фиксируется */
+		background-repeat: no-repeat; /* Изображение повторяется по горизонтали */
+        background-size: 2000px 1000px ;;
+        margin: 0;
+}
+hr {
+    height: 5px;
+    background-color: black;
+    display: block;
+    height: 1px;
+    border: 0;
+    margin: 1em 0;
+    padding: 0;
+    
+}
+a {
+    
+    font-size: 19px;
+
+
+}
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+span {
+    font-size: 21px;
+}
+div {
+
+    margin: 5% 1%; 
+}
+.product{
+	position:relative;
+	padding: 20px;
+	min-height: 120px;
+	background-color:whitesmoke;
+	border-radius: 15px;
+	list-style: none; ;
+}
+
+.container {
+    position: relative;
+    max-width: 998px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  a:link {
+    color: black; /* Цвет ссылок */
+    padding: 10px; /* Поля вокруг текста */
+  }
+  a:hover {
+    background: cadetblue ; /* Цвет фона под ссылкой */
+    color: #ffe; /* Цвет ссылки */
+  }
